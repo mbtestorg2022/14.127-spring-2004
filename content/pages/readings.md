@@ -140,7 +140,7 @@ Duflo, E., and E. Saez. "[Participation and Investment Decisions in a Retirement
 
 Madrian, Brigitte, and D. Shea. "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." _Quarterly Journal of Economics_ 116 (2001): 1149-1525.
 
-\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/380085))
+\*Thaler, and Bernatzi. "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving." ([PDF](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/380085))
 
 Other Perspectives
 
